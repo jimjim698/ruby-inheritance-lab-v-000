@@ -28,5 +28,5 @@ rob = Student.new
 rob.first_name = "Rob"
 rob.last_name = "Hollywood"
 rob.learn(some_knowledge)
-rob.knowledge
-steve.knowledge
+puts "Rob knows, #{rob.knowledge}"
+puts "Steve knows, #{steve.knowledge}"
