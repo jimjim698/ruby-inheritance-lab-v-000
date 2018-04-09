@@ -29,4 +29,4 @@ rob.first_name = "Rob"
 rob.last_name = "Hollywood"
 rob.learn(some_knowledge)
 rob.knowledge
-steve.knowledge 
+steve.knowledge
